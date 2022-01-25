@@ -1,4 +1,4 @@
 # Travel The Worldle
 
-[Wordle](https://powerlanguage.co.uk/wordle/) is a cool game, you should go play it.
+Este un joc asemeni [Wordle](https://powerlanguage.co.uk/wordle/), dar cuvintele ce trebuie descoperite sunt numele unor destinatii din intreaga lume. 
 
